@@ -3,4 +3,4 @@
 3. Nicolas Eder: 
 4. Nick Fontes: 
 5. Joseph Myers: 
-6. Gabe Salas: 
+6. Gabe Salas: https://github.com/EdwinBMV/RUEBEZAHL-Story-Time/pull/4
